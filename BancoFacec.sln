@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Apresentacao", "01 - Apresentacao", "{37CCEFC2-5EA5-41DB-B65E-84C9C5655889}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Dominio", "02 - Dominio", "{E60E7840-BA60-4388-B4F6-486D5AD38BEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Testes", "03 - Testes", "{56A4AA1A-5DF4-415D-A79B-A3DA6308CD61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.1 - Testes Dominio", "03.1 - Testes Dominio", "{EC4138B7-C828-4051-9AE3-ED4083130DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoFacec.Dominio", "BancoFacec.Dominio\BancoFacec.Dominio.csproj", "{E94B2DA4-DA51-47EA-8E12-82FAC4529598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoFacec.AppConsole", "BancoFacec.AppConsole\BancoFacec.AppConsole.csproj", "{D95FE7E4-7AB5-4BE6-8CC9-561A5D8F798B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoFacec.Testes.Dominio", "BancoFacec.Testes.Dominio\BancoFacec.Testes.Dominio.csproj", "{7680210D-C84C-47DC-84BD-06AF151C3F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94B2DA4-DA51-47EA-8E12-82FAC4529598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94B2DA4-DA51-47EA-8E12-82FAC4529598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94B2DA4-DA51-47EA-8E12-82FAC4529598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94B2DA4-DA51-47EA-8E12-82FAC4529598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95FE7E4-7AB5-4BE6-8CC9-561A5D8F798B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95FE7E4-7AB5-4BE6-8CC9-561A5D8F798B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95FE7E4-7AB5-4BE6-8CC9-561A5D8F798B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95FE7E4-7AB5-4BE6-8CC9-561A5D8F798B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7680210D-C84C-47DC-84BD-06AF151C3F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7680210D-C84C-47DC-84BD-06AF151C3F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7680210D-C84C-47DC-84BD-06AF151C3F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7680210D-C84C-47DC-84BD-06AF151C3F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC4138B7-C828-4051-9AE3-ED4083130DC8} = {56A4AA1A-5DF4-415D-A79B-A3DA6308CD61}
+		{E94B2DA4-DA51-47EA-8E12-82FAC4529598} = {E60E7840-BA60-4388-B4F6-486D5AD38BEE}
+		{D95FE7E4-7AB5-4BE6-8CC9-561A5D8F798B} = {37CCEFC2-5EA5-41DB-B65E-84C9C5655889}
+		{7680210D-C84C-47DC-84BD-06AF151C3F96} = {EC4138B7-C828-4051-9AE3-ED4083130DC8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5733631-6A85-4458-BF53-0707B8CF6754}
+	EndGlobalSection
+EndGlobal

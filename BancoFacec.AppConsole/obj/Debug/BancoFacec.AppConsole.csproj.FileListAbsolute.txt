@@ -1,0 +1,6 @@
+C:\Users\gabri\Desktop\ProjetosCSHARP\BancoFacec\BancoFacec.AppConsole\bin\Debug\BancoFacec.AppConsole.exe.config
+C:\Users\gabri\Desktop\ProjetosCSHARP\BancoFacec\BancoFacec.AppConsole\bin\Debug\BancoFacec.AppConsole.exe
+C:\Users\gabri\Desktop\ProjetosCSHARP\BancoFacec\BancoFacec.AppConsole\bin\Debug\BancoFacec.AppConsole.pdb
+C:\Users\gabri\Desktop\ProjetosCSHARP\BancoFacec\BancoFacec.AppConsole\obj\Debug\BancoFacec.AppConsole.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\ProjetosCSHARP\BancoFacec\BancoFacec.AppConsole\obj\Debug\BancoFacec.AppConsole.exe
+C:\Users\gabri\Desktop\ProjetosCSHARP\BancoFacec\BancoFacec.AppConsole\obj\Debug\BancoFacec.AppConsole.pdb
